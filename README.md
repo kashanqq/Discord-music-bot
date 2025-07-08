@@ -2,12 +2,15 @@
 Music-bot which support youtube for discord.
 
 This Bot support next command: 
+
 /play - for active bot and start your music
+
 /skip - skip plaing track and go next one (if it has, another way bot will disconnect)
+
 /queue - show queue of track that will play later
 
 
-You have to have yt-dlp and ffmpeg on your PC. If you don't have it, keep reading.
+# You have to have yt-dlp and ffmpeg on your PC. If you don't have it, keep reading.
 
 # How install yt-dlp for Win 11:
 
