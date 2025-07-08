@@ -10,9 +10,6 @@ This Bot support next command:
 /queue - show queue of track that will play later
 
 
-requirements.txt have whole libraries, in Terminal print "pip install -r requirements.txt"
-
-
 # You have to have yt-dlp and ffmpeg on your PC. If you don't have it, keep reading.
 
 # How install yt-dlp for Win 11:
@@ -44,3 +41,5 @@ From now, you shouldn't use other bots for music
 
 # (Pls, create .env file and paste your API-key, expl: DISCORD_TOKEN=YOUR_TOKEN)
 Get it, you can here: https://discord.com/developers/applications, by clicking "New application"
+
+requirements.txt have whole libraries, in Terminal print "pip install -r requirements.txt"
