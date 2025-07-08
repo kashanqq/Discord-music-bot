@@ -10,6 +10,9 @@ This Bot support next command:
 /queue - show queue of track that will play later
 
 
+requirements.txt have whole libraries, in Terminal print "pip install -r requirements.txt"
+
+
 # You have to have yt-dlp and ffmpeg on your PC. If you don't have it, keep reading.
 
 # How install yt-dlp for Win 11:
