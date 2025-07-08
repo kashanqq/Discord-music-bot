@@ -4,7 +4,7 @@ You have to have yt-dlp and ffmpeg on your PC. If you don't have it, keep readin
 
 # How install yt-dlp for Win 11:
 
-1. Click this https://github.com/yt-dlp/yt-dlp/releases/tag/2025.06.30 and download yt-dlp.exe in any folder on your PC (primiry, in comfortable folder)
+1. Click this https://github.com/yt-dlp/yt-dlp/releases/tag/2025.06.30 and download yt-dlp.exe in any folder on your PC (primary, in comfortable folder)
 2. Open the Search write "variables" and open "Edit the system environment variables"
 3. Go over in Advanced tab and click on "Environment variables"
 4. Here, double click on "Path" (System Variables) - New.. - select your "yt-dlp.exe" file.
@@ -28,3 +28,6 @@ Just like you did for yt-dlp
 ffmpeg -version
 
 From now, you shouldn't use other bots for music
+
+# (Pls, create .env file and paste your API-key, expl: DISCORD_TOKEN=YOUR_TOKEN)
+Get it, you can here: https://discord.com/developers/applications, by clicking "New application"
